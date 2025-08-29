@@ -1,15 +1,15 @@
 ﻿# Carbon MRV Prototype
 
-## 📌 Overview
+## Overview
 This is a **prototype** for a Carbon Measurement, Reporting, and Verification (MRV) system.
 
-## 🚀 Day 1 Progress
-- ✅ Backend setup with FastAPI
-- ✅ Frontend setup with React + Vite
-- ✅ Connection between frontend & backend
-- ✅ Data folder created
+## Day 1 Progress
+-  Backend setup with FastAPI
+-  Frontend setup with React + Vite
+-  Connection between frontend & backend
+-  Data folder created
 
-## ▶️ Run Instructions
+##  Run Instructions
 ### Backend
 ``bash
 cd backend
